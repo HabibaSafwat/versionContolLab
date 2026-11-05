@@ -1,0 +1,11 @@
+# Build output
+build/
+dist/
+
+#secret
+.env
+*.key
+
+# OS and Editor files 
+.DS_Store
+.vscode/
